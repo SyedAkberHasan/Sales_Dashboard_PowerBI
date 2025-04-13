@@ -2,6 +2,8 @@
 
 This dashboard provides a comprehensive overview of sales performance for a supermarket shop. It visualizes key metrics such as total sales, total profit, and profit percentage. The dashboard allows filtering by sale type and payment mode, making it a versatile tool for analyzing different aspects of sales data.
 
+![image alt](https://github.com/SyedAkberHasan/MMEnterprise_Website_project/blob/main/Screenshot%20(24).png?raw=true)
+
 ## Table of Contents
 
 1. [Overview](#overview)
